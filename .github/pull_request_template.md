@@ -1,3 +1,3 @@
-para fazer o merge preciso testar o arquivo helloada.md :smile:
+para fazer o merge preciso testar os arquivos: helloada.md, io.md :smile:
 
 ## template teste
